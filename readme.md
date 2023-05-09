@@ -4,7 +4,7 @@ Thomas Bromley criou seu relógio digital em 1961. Seu nome é pouco conhecido, 
 ![image](https://github.com/Ventura-Jr/CRUD-IBRF/assets/122493018/dde180de-0b21-44f8-9c8a-4c911f4c9d07)
 
 # Desenvolvimento
-O Relógio Digiital foi desenvolvido utilizando as seguintes tecnologias:
+O Relógio Digital foi desenvolvido utilizando as seguintes tecnologias:
 <div>
 <img align="center" alt="Ventura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="Ventura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
